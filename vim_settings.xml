@@ -1,0 +1,91 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>pow</entry>
+      </history-search>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/lang/Math.java" timestamp="1586520047834">
+        <mark key="'" line="520" column="61" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/MyUser.java" timestamp="1586519513317">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="28" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="104" column="19" filename="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/lang/Math.java" />
+      <jump line="255" column="53" filename="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/lang/Math.java" />
+      <jump line="520" column="61" filename="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/lang/Math.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>ddddddd</text>
+      </register>
+      <register name="-" type="4">
+        <text>ddddddd</text>
+      </register>
+      <register name="/" type="4">
+        <text>pow</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>pow</last-search>
+      <last-offset />
+      <last-pattern>pow</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
