@@ -110,10 +110,11 @@
       <file name="/fragment.java" timestamp="1586761448938">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/Main.java" timestamp="1586757223215">
+      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/Main.java" timestamp="1586762948507">
         <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="5" />
       </file>
     </filemarks>
     <jumps />
