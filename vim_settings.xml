@@ -81,11 +81,12 @@
         <mark key="]" line="668" column="60" />
         <mark key="." line="668" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/MyUser.java" timestamp="1586768059356">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/MyUser.java" timestamp="1586792245751">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="10" />
+        <mark key="^" line="37" column="11" />
       </file>
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/lang/RuntimeException.java" timestamp="1586773757062">
         <mark key="'" line="42" column="13" />
@@ -115,11 +116,11 @@
       <file name="/fragment.java" timestamp="1586761448938">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/Main.java" timestamp="1586790577627">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="4" />
-        <mark key="^" line="10" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/Main.java" timestamp="1586792181136">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -129,11 +130,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgaW50IGEoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>TestInterface2</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
@@ -142,31 +143,31 @@
         <text>println(&quot;gg&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgaW50IGEoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmFmeC51dGlsLlBhaXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RJbnRlcmZhY2VFeHRlbmQgaW1wbGVtZW50cyBUZXN0SW50ZXJmYWNlLFRlc3RJbnRlcmZhY2Uyewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgaW50IGEoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RJbnRlcmZhY2VFeHRlbmQgaW1wbGVtZW50cyBUZXN0SW50ZXJmYWNlLFRlc3RJbnRlcmZhY2Uyewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYSA9IHNzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYSA9IHNzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG5ld3BhY2thZ2UuVGVzdE5ld015VXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTXlVc2VyKCkK</text>
+        <text encoding="base64">aW1wb3J0IG5ld3BhY2thZ2UuVGVzdE5ld015VXNlcjsK</text>
       </register>
     </registers>
   </component>
