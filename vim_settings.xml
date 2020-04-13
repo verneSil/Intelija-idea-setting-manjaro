@@ -63,12 +63,11 @@
         <mark key="]" line="668" column="60" />
         <mark key="." line="668" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/MyUser.java" timestamp="1586766732617">
+      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/MyUser.java" timestamp="1586768059356">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="41" />
-        <mark key="^" line="31" column="42" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1586761558662">
         <mark key="[" line="0" column="0" />
@@ -121,8 +120,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>TestInterface2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgaW50IGEoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>TestInterface2</text>
@@ -134,31 +133,31 @@
         <text>println(&quot;gg&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RJbnRlcmZhY2VFeHRlbmQgaW1wbGVtZW50cyBUZXN0SW50ZXJmYWNlLFRlc3RJbnRlcmZhY2Uyewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgaW50IGEoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RJbnRlcmZhY2VFeHRlbmQgaW1wbGVtZW50cyBUZXN0SW50ZXJmYWNlLFRlc3RJbnRlcmZhY2Uyewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYSA9IHNzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYSA9IHNzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5ld3BhY2thZ2UuVGVzdE5ld015VXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTXlVc2VyKCkK</text>
+        <text encoding="base64">aW1wb3J0IG5ld3BhY2thZ2UuVGVzdE5ld015VXNlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTXlVc2VyKCkK</text>
       </register>
     </registers>
   </component>
