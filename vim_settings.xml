@@ -63,12 +63,12 @@
         <mark key="]" line="668" column="60" />
         <mark key="." line="668" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/MyUser.java" timestamp="1586761708577">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="42" />
-        <mark key="^" line="18" column="42" />
-        <mark key="." line="14" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/MyUser.java" timestamp="1586766732617">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="31" column="42" />
+        <mark key="." line="31" column="41" />
+        <mark key="^" line="31" column="42" />
       </file>
       <file name="/a.dummy" timestamp="1586761558662">
         <mark key="[" line="0" column="0" />
@@ -79,10 +79,10 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/TestInterfaceExtend.java" timestamp="1586759491029">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/TestInterfaceExtend.java" timestamp="1586766716666">
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="7" column="57" />
+        <mark key="." line="7" column="57" />
         <mark key="^" line="14" column="13" />
       </file>
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/lang/Comparable.java" timestamp="1586702583159">
@@ -110,11 +110,11 @@
       <file name="/fragment.java" timestamp="1586761448938">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/Main.java" timestamp="1586762948507">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/Main.java" timestamp="1586766691658">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="5" />
       </file>
     </filemarks>
     <jumps />
@@ -122,10 +122,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>declaredFields</text>
+        <text>TestInterface2</text>
       </register>
       <register name="-" type="4">
-        <text>declaredFields</text>
+        <text>TestInterface2</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
@@ -134,31 +134,31 @@
         <text>println(&quot;gg&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RJbnRlcmZhY2VFeHRlbmQgaW1wbGVtZW50cyBUZXN0SW50ZXJmYWNlLFRlc3RJbnRlcmZhY2Uyewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG5ld3BhY2thZ2UuVGVzdE5ld015VXNlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTXlVc2VyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYSA9IHNzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgYWN0aW9uUGVyZm9ybWVkKEFjdGlvbkV2ZW50IGUpIHsgU3lzdGVtLm91dC5wcmludGxuKCJnZyIpOyB9IH0pLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3cwo=</text>
+        <text encoding="base64">aW1wb3J0IG5ld3BhY2thZ2UuVGVzdE5ld015VXNlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTXlVc2VyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm15IG5hbWUgaXMgbGkgeGlhbyBsdSAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
     </registers>
   </component>
