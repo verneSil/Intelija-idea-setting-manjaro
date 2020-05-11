@@ -110,6 +110,7 @@
         <mark key="." line="567" column="7" />
         <mark key="^" line="567" column="8" />
       </file>
+      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/Arrays.java" timestamp="1589189294928" />
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/Executor.java" timestamp="1589187380782">
         <mark key="'" line="45" column="1" />
       </file>
@@ -117,25 +118,26 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1589187340823" />
+      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/function/Function.java" timestamp="1589189475653">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1589180394488">
         <mark key="[" line="205" column="35" />
         <mark key="]" line="205" column="35" />
         <mark key="." line="205" column="34" />
         <mark key="^" line="205" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/stairsTest.java" timestamp="1589188867621">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/stairsTest.java" timestamp="1589189514479">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" timestamp="1589178471328" />
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" timestamp="1589186079195" />
       <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/NodeTools.java" timestamp="1589182386266" />
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/awt/event/MouseEvent.java" timestamp="1589175875871">
-        <mark key="[" line="995" column="0" />
-        <mark key="]" line="995" column="0" />
-        <mark key="." line="995" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1589187655274">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -147,9 +149,8 @@
         <mark key="^" line="215" column="38" />
         <mark key="." line="215" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/lang/Thread.java" timestamp="1589176650233" />
-      <file name="/fragment.java" timestamp="1589188848917">
-        <mark key="[" line="0" column="15" />
+      <file name="/fragment.java" timestamp="1589188916536">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
@@ -159,7 +160,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICBOT1RFX0JZX1pXQzogc2Fkc2YgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogMjAyMC81LzExIAo=</text>
       </register>
       <register name="-" type="4">
         <text>Note</text>
@@ -171,31 +172,31 @@
         <text>println(&quot;gg&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICBOT1RFX0JZX1pXQzogc2Fkc2YgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogMjAyMC81LzExIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICBub3RlQnlaV0MgOnNhZGZmIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDIwLzUvMTEgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG5ld3BhY2thZ2UuVGVzdE5ld015VXNlcjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTXlVc2VyKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogMjAyMC81LzExIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogMjAyMC81LzExIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgYWN0aW9uUGVyZm9ybWVkKEFjdGlvbkV2ZW50IGUpIHsgU3lzdGVtLm91dC5wcmludGxuKCJnZyIpOyB9IH0pLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vICBOT1RFX0JZX1pXQzogc2Fkc2YgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3cwo=</text>
+        <text encoding="base64">ICAgIC8vICBub3RlQnlaV0MgOnNhZGZmIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>

@@ -1,8 +1,24 @@
 <keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="EditorJoinLines" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="ctrl b" />
-    <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
-  <action id="InsertLiveTemplate" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="GotoTypeDeclaration" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="MaximizeToolWindow" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
 </keymap>
