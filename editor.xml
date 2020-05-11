@@ -4,5 +4,9 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern useCustomColors="true" pattern="\b(NOTE_BY_ZWC|fixme)\b.*">
+      <option name="FOREGROUND" value="2f5dff" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>

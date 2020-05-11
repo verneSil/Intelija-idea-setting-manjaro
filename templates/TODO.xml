@@ -1,0 +1,7 @@
+<templateSet group="TODO">
+  <template name="note" value="//  NOTE_BY_ZWC: " toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
