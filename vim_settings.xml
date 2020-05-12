@@ -119,6 +119,12 @@
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/Executor.java" timestamp="1589187380782">
         <mark key="'" line="45" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/TreeForSum/TestTreeForSum.java" timestamp="1589286450783">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="8" column="42" />
+      </file>
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/Executors.java" timestamp="1589187351598">
         <mark key="[" line="215" column="38" />
         <mark key="]" line="215" column="38" />
@@ -136,15 +142,17 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/Solution.java" timestamp="1589274524067">
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/Solution.java" timestamp="1589285098199">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/lessmovearrays/LessMoveTest.java" timestamp="1589282711042">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="14" />
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/lessmovearrays/LessMoveTest.java" timestamp="1589284559964">
+        <mark key="'" line="46" column="22" />
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="/" timestamp="1589188563721">
         <mark key="[" line="0" column="0" />
@@ -173,7 +181,7 @@
         <mark key="." line="205" column="34" />
         <mark key="^" line="205" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" timestamp="1589274065200">
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" timestamp="1589286434686">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -192,7 +200,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1589269877459">
+      <file name="/fragment.java" timestamp="1589285115851">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -219,15 +227,16 @@
       <jump line="43" column="17" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" />
       <jump line="34" column="21" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/Solution.java" />
+      <jump line="45" column="22" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/lessmovearrays/LessMoveTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
@@ -236,31 +245,31 @@
         <text encoding="base64">cmFuZG9tLm5leHRJbnQoMTApID4gNDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmaW4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGVsZW1lbnRzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCItPiIgKyBlbGVtZW50c1tpXSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGludFtdIGJvdyA9IG5ldyBpbnRbSW50ZWdlci5NQVhfVkFMVUVdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJldmVyc2V0cmVlLlRyZWVOb2RlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
