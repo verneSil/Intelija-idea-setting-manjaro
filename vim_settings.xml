@@ -11,11 +11,16 @@
         <entry>resize</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>q!</entry>
         <entry>Ydc</entry>
+        <entry>lazygit</entry>
+        <entry>q</entry>
+        <entry>printf(&quot;Leaderf mru %s&quot;, &quot;&quot;)</entry>
+        <entry>printf(&quot;Leaderf buffer %s&quot;, &quot;&quot;)</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>TagbarToggle</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -98,12 +103,15 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F8</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589187655274">
+      <file name="/Dummy.txt" timestamp="1589262659340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,6 +145,13 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/NodeTools.java" timestamp="1589263214354">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1589180394488">
         <mark key="[" line="205" column="35" />
         <mark key="]" line="205" column="35" />
@@ -149,7 +164,8 @@
         <mark key="^" line="365" column="5" />
         <mark key="." line="365" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/stairsTest.java" timestamp="1589259302388">
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/stairsTest.java" timestamp="1589262568966">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -159,11 +175,10 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/ReverseListMainTest.java" timestamp="1589257837402">
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="14" column="60" />
-        <mark key="." line="14" column="59" />
-        <mark key="^" line="14" column="60" />
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/ReverseListMainTest.java" timestamp="1589263454361">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589180879502">
         <mark key="[" line="566" column="75" />
@@ -173,15 +188,20 @@
       </file>
       <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/TestInterface.java" timestamp="1589261025821" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/stairsTest.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/stairsTest.java" />
+      <jump line="31" column="12" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/NodeTools.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/NodeTools.java" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAoKCgoKCgpKSkpKSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
@@ -190,34 +210,34 @@
         <text>println(&quot;gg&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAoKCgoKCgpKSkpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRzZXRJbnRlcmZhY2UoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICB8YXNzYXxzYXNzfHNzYXwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB8YXNzYXxzYXNzfHNzYXwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRzZXRJbnRlcmZhY2UoKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
