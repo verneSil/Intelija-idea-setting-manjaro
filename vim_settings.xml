@@ -119,11 +119,11 @@
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/Executor.java" timestamp="1589187380782">
         <mark key="'" line="45" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/TreeForSum/TestTreeForSum.java" timestamp="1589286450783">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="8" column="42" />
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/TreeForSum/TestTreeForSum.java" timestamp="1589289641475">
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="57" column="26" />
+        <mark key="." line="57" column="25" />
+        <mark key="^" line="57" column="26" />
       </file>
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/Executors.java" timestamp="1589187351598">
         <mark key="[" line="215" column="38" />
@@ -233,43 +233,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmljIHN0YXRpYyAK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cmFuZG9tLm5leHRJbnQoMTApID4gNDs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm93W3Jvb3QudmFsXSA9IDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmljIHN0YXRpYyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBib3dbXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm93IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludFtdIGJvdyA9IG5ldyBpbnRbSW50ZWdlci5NQVhfVkFMVUVdOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRSZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJldmVyc2V0cmVlLlRyZWVOb2RlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
