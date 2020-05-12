@@ -136,6 +136,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/Solution.java" timestamp="1589274524067">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/" timestamp="1589188563721">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,11 +168,12 @@
         <mark key="." line="205" column="34" />
         <mark key="^" line="205" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" timestamp="1589270168424">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="18" column="19" />
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" timestamp="1589274065200">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="75" column="5" />
       </file>
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1589188796444">
         <mark key="[" line="364" column="28" />
@@ -204,48 +210,52 @@
       <jump line="23" column="0" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/stairsTest.java" />
       <jump line="31" column="12" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/NodeTools.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/NodeTools.java" />
+      <jump line="31" column="22" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" />
+      <jump line="43" column="17" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" />
+      <jump line="34" column="21" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/Solution.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>R</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGhhc1JpZ2h0ID0gKGludCkgKE1hdGgucmFuZG9tKCkgKiAxMCkgPiA0Owo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmFuZG9tLm5leHRJbnQoMTApID4gNDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LyoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ki8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVHJlZU5vZGUgaW52ZXJ0VHJlZShUcmVlTm9kZSByb290KSB7CiAgICAgICAgdGhpcy50bXAgPSByb290CiAgICAgICAgaW52ZXJ0VHJlZSgpOwogICAgICAgIHJldHVybiByb290OwogICAgfQoKICAgIHByaXZhdGUgVHJlZU5vZGUgdG1wOwogICAgcHJpdmF0ZSBUcmVlTm9kZSBsZWZ0OwogICAgcHJpdmF0ZSBUcmVlTm9kZSByaWdodDsKICAgIHByaXZhdGUgVHJlZU5vZGUgaW52ZXJ0VHJlZSgpewogICAgICAgIGlmKHRtcCA9PSBudWxsKXsKICAgICAgICAgICAgcmV0dXJuIHRtcDsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaW52ZXJ0VHJlZSgpOwogICAgfQ==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoKCgoKCgpKSkpKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB8YXNzYXxzYXNzfHNzYXwK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdCA9IHRtcC5sZWZ0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
