@@ -1,5 +1,5 @@
 <templateSet group="TODO">
-  <template name="note" value="//  NOTE_BY_ZWC: " toReformat="false" toShortenFQNames="true">
+  <template name="note" value="//  NOTE_BY_ZWC: " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

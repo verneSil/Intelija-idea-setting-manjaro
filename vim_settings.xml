@@ -96,52 +96,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/opt/software/jdk/jdk1.8.0_221/javafx-src.zip!/com/sun/javafx/tk/quantum/QuantumRenderer.java" timestamp="1589187363661" />
-      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/SynchronousQueue.java" timestamp="1589186116503" />
-      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1589188796444">
-        <mark key="[" line="364" column="28" />
-        <mark key="]" line="365" column="5" />
-        <mark key="^" line="365" column="5" />
-        <mark key="." line="365" column="4" />
+      <file name="/Dummy.txt" timestamp="1589187655274">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589180879502">
-        <mark key="[" line="566" column="75" />
-        <mark key="]" line="567" column="8" />
-        <mark key="." line="567" column="7" />
-        <mark key="^" line="567" column="8" />
-      </file>
-      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/Arrays.java" timestamp="1589189294928" />
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/Executor.java" timestamp="1589187380782">
         <mark key="'" line="45" column="1" />
       </file>
-      <file name="/" timestamp="1589188563721">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1589187340823" />
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/function/Function.java" timestamp="1589189475653">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1589180394488">
-        <mark key="[" line="205" column="35" />
-        <mark key="]" line="205" column="35" />
-        <mark key="." line="205" column="34" />
-        <mark key="^" line="205" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/stairsTest.java" timestamp="1589189590214">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" timestamp="1589178471328" />
-      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" timestamp="1589186079195" />
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/NodeTools.java" timestamp="1589182386266" />
-      <file name="/Dummy.txt" timestamp="1589187655274">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/Executors.java" timestamp="1589187351598">
         <mark key="[" line="215" column="38" />
@@ -149,21 +116,47 @@
         <mark key="^" line="215" column="38" />
         <mark key="." line="215" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1589180394488">
+        <mark key="[" line="205" column="35" />
+        <mark key="]" line="205" column="35" />
+        <mark key="." line="205" column="34" />
+        <mark key="^" line="205" column="35" />
+      </file>
+      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1589188796444">
+        <mark key="[" line="364" column="28" />
+        <mark key="]" line="365" column="5" />
+        <mark key="^" line="365" column="5" />
+        <mark key="." line="365" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/goupfloors/stairsTest.java" timestamp="1589255886973">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="/fragment.java" timestamp="1589188916536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="/" timestamp="1589188563721">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589180879502">
+        <mark key="[" line="566" column="75" />
+        <mark key="]" line="567" column="8" />
+        <mark key="." line="567" column="7" />
+        <mark key="^" line="567" column="8" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Note</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
@@ -172,31 +165,31 @@
         <text>println(&quot;gg&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogMjAyMC81LzExIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDIwLzUvMTEgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogMjAyMC81LzExIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDIwLzUvMTEgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogMjAyMC81LzExIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogMjAyMC81LzExIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICBOT1RFX0JZX1pXQzogc2Fkc2YgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogMjAyMC81LzExIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
