@@ -2,9 +2,25 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
-  <action id="EditorJoinLines" />
-  <action id="GotoDeclaration">
+  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorJoinLines" />
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="ExpressionTypeInfo" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
@@ -13,11 +29,25 @@
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="GotoTypeDeclaration" />
+  <action id="GuiDesigner.CreateListener" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="MaximizeToolWindow" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="altGraph o" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="altGraph u" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
   </action>
