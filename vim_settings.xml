@@ -141,6 +141,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/lessmovearrays/LessMoveTest.java" timestamp="1589282711042">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="14" />
+      </file>
       <file name="/" timestamp="1589188563721">
         <mark key="[" line="0" column="0" />
       </file>
@@ -219,10 +224,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
@@ -231,31 +236,31 @@
         <text encoding="base64">cmFuZG9tLm5leHRJbnQoMTApID4gNDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVHJlZU5vZGUgaW52ZXJ0VHJlZShUcmVlTm9kZSByb290KSB7CiAgICAgICAgdGhpcy50bXAgPSByb290CiAgICAgICAgaW52ZXJ0VHJlZSgpOwogICAgICAgIHJldHVybiByb290OwogICAgfQoKICAgIHByaXZhdGUgVHJlZU5vZGUgdG1wOwogICAgcHJpdmF0ZSBUcmVlTm9kZSBsZWZ0OwogICAgcHJpdmF0ZSBUcmVlTm9kZSByaWdodDsKICAgIHByaXZhdGUgVHJlZU5vZGUgaW52ZXJ0VHJlZSgpewogICAgICAgIGlmKHRtcCA9PSBudWxsKXsKICAgICAgICAgICAgcmV0dXJuIHRtcDsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaW52ZXJ0VHJlZSgpOwogICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGVsZW1lbnRzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCItPiIgKyBlbGVtZW50c1tpXSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdCA9IHRtcC5sZWZ0Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
