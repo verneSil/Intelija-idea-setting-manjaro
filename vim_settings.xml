@@ -17,10 +17,12 @@
         <entry>q</entry>
         <entry>printf(&quot;Leaderf mru %s&quot;, &quot;&quot;)</entry>
         <entry>printf(&quot;Leaderf buffer %s&quot;, &quot;&quot;)</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>TagbarToggle</entry>
         <entry>q!</entry>
+        <entry>open ~/.vimrc</entry>
+        <entry>vs ~/.vimrc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,9 +118,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/Executor.java" timestamp="1589187380782">
-        <mark key="'" line="45" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/TreeForSum/TestTreeForSum.java" timestamp="1589341229681">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="29" column="36" />
@@ -179,6 +178,12 @@
         <mark key="." line="233" column="25" />
         <mark key="^" line="233" column="26" />
       </file>
+      <file name="$USER_HOME$/.vimrc" timestamp="1589370697241">
+        <mark key="[" line="72" column="1" />
+        <mark key="]" line="72" column="4" />
+        <mark key="^" line="72" column="4" />
+        <mark key="." line="72" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" timestamp="1589286434686">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="66" column="0" />
@@ -209,11 +214,12 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589361961260">
-        <mark key="[" line="568" column="75" />
-        <mark key="]" line="569" column="8" />
-        <mark key="." line="569" column="7" />
-        <mark key="^" line="569" column="8" />
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589370538336">
+        <mark key="'" line="537" column="39" />
+        <mark key="[" line="561" column="0" />
+        <mark key="]" line="561" column="0" />
+        <mark key="^" line="57" column="55" />
+        <mark key="." line="561" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -227,15 +233,19 @@
       <jump line="34" column="21" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/Solution.java" />
       <jump line="45" column="22" filename="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/lessmovearrays/LessMoveTest.java" />
       <jump line="85" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" />
+      <jump line="884" column="20" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="2288" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="298" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="539" column="39" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
@@ -244,34 +254,34 @@
         <text encoding="base64">ICAgICAgICAgICAgYm93W3Jvb3QudmFsXSA9IDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4ge0Bjb2RlIHRydWV9IGlmIHN1Y2Nlc3NmdWwuIEZhbHNlIHJldHVybiBpbmRpY2F0ZXMgdGhhdCB0aGUgYWN0dWFsCiAgICBwcm90ZWN0ZWQgZmluYWwgYm9vbGVhbiBjb21wYXJlQW5kU2V0U3RhdGUoaW50IGV4cGVjdCwgaW50IHVwZGF0ZSkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgdmFsdWUgd2FzIG5vdCBlcXVhbCB0byB0aGUgZXhwZWN0ZWQgdmFsdWUuCiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmljIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgdmFsdWUgd2FzIG5vdCBlcXVhbCB0byB0aGUgZXhwZWN0ZWQgdmFsdWUuCiAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4ge0Bjb2RlIHRydWV9IGlmIHN1Y2Nlc3NmdWwuIEZhbHNlIHJldHVybiBpbmRpY2F0ZXMgdGhhdCB0aGUgYWN0dWFsCiAgICAgKiAgICAgICAgIHZhbHVlIHdhcyBub3QgZXF1YWwgdG8gdGhlIGV4cGVjdGVkIHZhbHVlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib3dbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm93IAo=</text>
+        <text encoding="base64">ICAgIHB1YmljIHN0YXRpYyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRSZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
