@@ -19,10 +19,10 @@
         <entry>printf(&quot;Leaderf buffer %s&quot;, &quot;&quot;)</entry>
         <entry>wq</entry>
         <entry>TagbarToggle</entry>
-        <entry>q!</entry>
         <entry>open ~/.vimrc</entry>
         <entry>vs ~/.vimrc</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -147,9 +147,6 @@
         <mark key="." line="16" column="8" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="/" timestamp="1589188563721">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/io/Serializable.java" timestamp="1589362567908" />
       <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/TestInterface.java" timestamp="1589258647924">
         <mark key="[" line="2" column="2" />
@@ -191,6 +188,9 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="75" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/Condition.java" timestamp="1589371299604">
+        <mark key="'" line="158" column="0" />
+      </file>
       <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/concurrent/ExecutorService.java" timestamp="1589188796444">
         <mark key="[" line="364" column="28" />
         <mark key="]" line="365" column="5" />
@@ -214,12 +214,12 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589370538336">
-        <mark key="'" line="537" column="39" />
-        <mark key="[" line="561" column="0" />
-        <mark key="]" line="561" column="0" />
-        <mark key="^" line="57" column="55" />
-        <mark key="." line="561" column="0" />
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589371873019">
+        <mark key="'" line="595" column="6" />
+        <mark key="[" line="124" column="3" />
+        <mark key="]" line="124" column="4" />
+        <mark key="^" line="124" column="4" />
+        <mark key="." line="124" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -237,15 +237,19 @@
       <jump line="2288" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="298" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="539" column="39" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="595" column="6" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="220" column="17" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/Condition.java" />
+      <jump line="486" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/Condition.java" />
+      <jump line="158" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/Condition.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>pow</text>
@@ -253,35 +257,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm93W3Jvb3QudmFsXSA9IDE7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4ge0Bjb2RlIHRydWV9IGlmIHN1Y2Nlc3NmdWwuIEZhbHNlIHJldHVybiBpbmRpY2F0ZXMgdGhhdCB0aGUgYWN0dWFsCiAgICBwcm90ZWN0ZWQgZmluYWwgYm9vbGVhbiBjb21wYXJlQW5kU2V0U3RhdGUoaW50IGV4cGVjdCwgaW50IHVwZGF0ZSkgewo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">SW1wbGVtZW50YXRpb25zIG9mIHRoZXNlIG1ldGhvZHMKICogbXVzdCBiZSBpbnRlcm5hbGx5IHRocmVhZC1zYWZlLCBhbmQgc2hvdWxkIGluIGdlbmVyYWwgYmUgc2hvcnQgYW5kCiAqIG5vdCBibG9jay4gRGVmaW5pbmcgdGhlc2UgbWV0aG9kcyBpcyB0aGUgPGVtPm9ubHk8L2VtPiBzdXBwb3J0ZWQKICogbWVhbnMgb2YgdXNpbmcgdGhpcyBjbGFzcy4gQWxsIG90aGVyIG1ldGhvZHMgYXJlIGRlY2xhcmVk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgdmFsdWUgd2FzIG5vdCBlcXVhbCB0byB0aGUgZXhwZWN0ZWQgdmFsdWUuCiAgICAgKi8K</text>
+        <text encoding="base64">ICogYWNxdWlyZXMgYnkgbXVsdGlwbGUgdGhyZWFkcyBtYXkgKGJ1dCBuZWVkIG5vdCkgc3VjY2VlZC4gVGhpcyBjbGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgdmFsdWUgd2FzIG5vdCBlcXVhbCB0byB0aGUgZXhwZWN0ZWQgdmFsdWUuCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4ge0Bjb2RlIHRydWV9IGlmIHN1Y2Nlc3NmdWwuIEZhbHNlIHJldHVybiBpbmRpY2F0ZXMgdGhhdCB0aGUgYWN0dWFsCiAgICBwcm90ZWN0ZWQgZmluYWwgYm9vbGVhbiBjb21wYXJlQW5kU2V0U3RhdGUoaW50IGV4cGVjdCwgaW50IHVwZGF0ZSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4ge0Bjb2RlIHRydWV9IGlmIHN1Y2Nlc3NmdWwuIEZhbHNlIHJldHVybiBpbmRpY2F0ZXMgdGhhdCB0aGUgYWN0dWFsCiAgICAgKiAgICAgICAgIHZhbHVlIHdhcyBub3QgZXF1YWwgdG8gdGhlIGV4cGVjdGVkIHZhbHVlLgo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgdmFsdWUgd2FzIG5vdCBlcXVhbCB0byB0aGUgZXhwZWN0ZWQgdmFsdWUuCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgdmFsdWUgd2FzIG5vdCBlcXVhbCB0byB0aGUgZXhwZWN0ZWQgdmFsdWUuCiAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4ge0Bjb2RlIHRydWV9IGlmIHN1Y2Nlc3NmdWwuIEZhbHNlIHJldHVybiBpbmRpY2F0ZXMgdGhhdCB0aGUgYWN0dWFsCiAgICAgKiAgICAgICAgIHZhbHVlIHdhcyBub3QgZXF1YWwgdG8gdGhlIGV4cGVjdGVkIHZhbHVlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmljIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmljIHN0YXRpYyAK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
   </component>
