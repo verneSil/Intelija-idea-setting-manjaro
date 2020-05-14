@@ -1,20 +1,37 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spin" />
+      <item value="exclusive" />
+      <item value="lesser" />
+      <item value="permitting" />
+      <item value="semantics" />
+      <item value="successor" />
+      <item value="PROPAGATE" />
+      <item value="Insertion" />
+      <item value="contend" />
+      <item value="contender" />
+      <item value="notification" />
+      <item value="predecessor" />
+      <item value="tactic" />
+      <item value="spinlocks" />
+      <item value="Hagersten" />
+      <item value="Landin" />
+      <item value="Craig" />
+      <item value="thereby" />
+      <item value="inspection" />
+      <item value="The core * of exclusive synchronization takes the form:" />
       <item value="Implementations of these methods * must be internally thread-safe, and should in general be short and * not block. Defining these methods is the &lt;em&gt;only&lt;/em&gt; supported * means of using this class. All other methods are declared * {@code final} because they cannot be independently varied." />
       <item value="internally" />
       <item value="desired" />
       <item value="exported" />
       <item value="internal" />
       <item value="instrumentation" />
-      <item value="inspection" />
-      <item value="semantics" />
       <item value="constraint" />
       <item value="otherwise" />
       <item value="respect to" />
       <item value="respect" />
       <item value="synchronization" />
-      <item value="exclusive" />
       <item value="understand" />
       <item value="quot" />
       <item value="acquired" />
@@ -26,8 +43,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
