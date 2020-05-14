@@ -21,9 +21,9 @@
         <entry>TagbarToggle</entry>
         <entry>open ~/.vimrc</entry>
         <entry>vs ~/.vimrc</entry>
-        <entry>q!</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,6 +114,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/javaBasicTest/src/com/company/MainTest.java" timestamp="1589451990556">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="42" />
+        <mark key="^" line="22" column="42" />
+        <mark key="." line="22" column="41" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589428877668">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -151,19 +157,8 @@
         <mark key="." line="16" column="8" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/TestInterface.java" timestamp="1589258647924">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" timestamp="1589362561058">
         <mark key="'" line="85" column="0" />
-      </file>
-      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/function/Function.java" timestamp="1589189475653">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/NodeTools.java" timestamp="1589341269158">
         <mark key="'" line="6" column="0" />
@@ -172,6 +167,8 @@
         <mark key="." line="135" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/HashMap.java" timestamp="1589451270921" />
+      <file name="/opt/software/jdk/jdk1.8.0_221/src.zip!/java/util/HashMap.java" timestamp="1589452203140" />
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1589363303295">
         <mark key="[" line="233" column="25" />
         <mark key="]" line="233" column="25" />
@@ -201,7 +198,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1589285115851">
+      <file name="/fragment.java" timestamp="1589452025761">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -289,7 +286,7 @@
         <text encoding="base64">ICAgICAqIEByZXR1cm4ge0Bjb2RlIHRydWV9IGlmIHN1Y2Nlc3NmdWwuIEZhbHNlIHJldHVybiBpbmRpY2F0ZXMgdGhhdCB0aGUgYWN0dWFsCiAgICAgKiAgICAgICAgIHZhbHVlIHdhcyBub3QgZXF1YWwgdG8gdGhlIGV4cGVjdGVkIHZhbHVlLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q!</text>
       </register>
     </registers>
   </component>
