@@ -23,6 +23,7 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
   <action id="EditorUp">
@@ -31,6 +32,10 @@
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -66,8 +71,12 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="ScrollTreeToCenter" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
 </keymap>
