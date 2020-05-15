@@ -169,6 +169,7 @@
         <mark key="^" line="453" column="12" />
         <mark key="." line="453" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/atomic/AtomicInteger.java" timestamp="1589543833907" />
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" timestamp="1589362561058">
         <mark key="'" line="85" column="0" />
       </file>
@@ -212,12 +213,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reverselist/ReverseListMainTest.java" timestamp="1589263554240">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="29" />
-        <mark key="." line="15" column="29" />
-        <mark key="^" line="15" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589428873162">
         <mark key="'" line="512" column="15" />
