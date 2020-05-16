@@ -27,13 +27,13 @@
         <entry>open ~/.vimrc</entry>
         <entry>w</entry>
         <entry>wq</entry>
-        <entry>q!</entry>
         <entry>cp</entry>
         <entry>help timeout</entry>
         <entry>vim ~/.vimrc</entry>
         <entry>vs ~/.vimrc</entry>
         <entry>wqz</entry>
         <entry>wqa</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -180,11 +180,12 @@
         <mark key="." line="135" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" timestamp="1589603489808">
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" timestamp="1589606482755">
         <mark key="'" line="80" column="22" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+        <mark key="[" line="183" column="26" />
+        <mark key="]" line="184" column="25" />
+        <mark key="." line="184" column="24" />
+        <mark key="^" line="184" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/HashMap.java" timestamp="1589501957897">
         <mark key="[" line="511" column="16" />
@@ -327,7 +328,7 @@
         <text encoding="base64">c2V0IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wqa</text>
+        <text>q!</text>
       </register>
     </registers>
   </component>
