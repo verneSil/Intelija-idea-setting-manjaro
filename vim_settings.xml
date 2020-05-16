@@ -13,6 +13,8 @@
         <entry>init</entry>
         <entry>createMap</entry>
         <entry>size</entry>
+        <entry>A</entry>
+        <entry>coor</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -23,11 +25,15 @@
         <entry>printf(&quot;Leaderf buffer %s&quot;, &quot;&quot;)</entry>
         <entry>TagbarToggle</entry>
         <entry>open ~/.vimrc</entry>
-        <entry>vs ~/.vimrc</entry>
         <entry>w</entry>
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>cp</entry>
+        <entry>help timeout</entry>
+        <entry>vim ~/.vimrc</entry>
+        <entry>vs ~/.vimrc</entry>
+        <entry>wqz</entry>
+        <entry>wqa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -138,11 +144,6 @@
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/javax/sql/rowset/Joinable.java" timestamp="1589426952956">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/TreeNode.java" timestamp="1589269937073">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/lang/Thread.java" timestamp="1589537981794">
         <mark key="'" line="447" column="8" />
         <mark key="[" line="399" column="46" />
@@ -169,7 +170,6 @@
         <mark key="^" line="453" column="12" />
         <mark key="." line="453" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/atomic/AtomicInteger.java" timestamp="1589543833907" />
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" timestamp="1589362561058">
         <mark key="'" line="85" column="0" />
       </file>
@@ -180,24 +180,31 @@
         <mark key="." line="135" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" timestamp="1589597787445">
+        <mark key="'" line="80" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/HashMap.java" timestamp="1589501957897">
         <mark key="[" line="511" column="16" />
         <mark key="]" line="514" column="16" />
         <mark key="^" line="514" column="16" />
         <mark key="." line="514" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1589363303295">
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/atomic/AtomicLong.java" timestamp="1589544975364">
+        <mark key="'" line="323" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/ReentrantLock.java" timestamp="1589545050112">
+        <mark key="'" line="115" column="26" />
         <mark key="[" line="233" column="25" />
         <mark key="]" line="233" column="25" />
         <mark key="." line="233" column="25" />
         <mark key="^" line="233" column="26" />
       </file>
-      <file name="$USER_HOME$/.vimrc" timestamp="1589371906770">
-        <mark key="'" line="329" column="0" />
-        <mark key="[" line="65" column="13" />
-        <mark key="]" line="65" column="13" />
-        <mark key="^" line="65" column="13" />
-        <mark key="." line="65" column="12" />
+      <file name="$USER_HOME$/.vimrc" timestamp="1589597004480">
+        <mark key="'" line="331" column="0" />
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="17" />
+        <mark key="^" line="63" column="17" />
+        <mark key="." line="63" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/github/study-example/LetCode/src/main/java/reversetree/ReverseTreeMainTest.java" timestamp="1589286434686">
         <mark key="'" line="18" column="0" />
@@ -214,8 +221,8 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589428873162">
-        <mark key="'" line="512" column="15" />
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589545101168">
+        <mark key="'" line="232" column="0" />
         <mark key="[" line="613" column="57" />
         <mark key="]" line="613" column="57" />
         <mark key="^" line="613" column="58" />
@@ -235,7 +242,6 @@
       <jump line="85" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" />
       <jump line="884" column="20" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="2288" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
-      <jump line="298" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="539" column="39" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="595" column="6" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
       <jump line="220" column="17" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/Condition.java" />
@@ -260,59 +266,72 @@
       <jump line="447" column="8" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/lang/Thread.java" />
       <jump line="254" column="26" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/lang/ThreadLocal.java" />
       <jump line="473" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/lang/ThreadLocal.java" />
+      <jump line="323" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/atomic/AtomicLong.java" />
+      <jump line="641" column="44" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="115" column="26" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/ReentrantLock.java" />
+      <jump line="298" column="45" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="232" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
+      <jump line="205" column="5" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
+      <jump line="311" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
+      <jump line="36" column="34" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
+      <jump line="39" column="3" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
+      <jump line="42" column="6" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
+      <jump line="50" column="6" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
+      <jump line="80" column="22" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIFdlIGRvbid0IHVzZSBhIGZhc3QgcGF0aCBhcyB3aXRoIGdldCgpIGJlY2F1c2UgaXQgaXMgYXQKICAgICAgICAgICAgLy8gbGVhc3QgYXMgY29tbW9uIHRvIHVzZSBzZXQoKSB0byBjcmVhdGUgbmV3IGVudHJpZXMgYXMKICAgICAgICAgICAgLy8gaXQgaXMgdG8gcmVwbGFjZSBleGlzdGluZyBvbmVzLCBpbiB3aGljaCBjYXNlLCBhIGZhc3QKICAgICAgICAgICAgLy8gcGF0aCB3b3VsZCBmYWlsIG1vcmUgb2Z0ZW4gdGhhbiBub3QuCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>size</text>
+        <text>coor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIFdlIGRvbid0IHVzZSBhIGZhc3QgcGF0aCBhcyB3aXRoIGdldCgpIGJlY2F1c2UgaXQgaXMgYXQKICAgICAgICAgICAgLy8gbGVhc3QgYXMgY29tbW9uIHRvIHVzZSBzZXQoKSB0byBjcmVhdGUgbmV3IGVudHJpZXMgYXMKICAgICAgICAgICAgLy8gaXQgaXMgdG8gcmVwbGFjZSBleGlzdGluZyBvbmVzLCBpbiB3aGljaCBjYXNlLCBhIGZhc3QKICAgICAgICAgICAgLy8gcGF0aCB3b3VsZCBmYWlsIG1vcmUgb2Z0ZW4gdGhhbiBub3QuCg==</text>
+        <text encoding="base64">c2V0IAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIFdlIGRvbid0IHVzZSBhIGZhc3QgcGF0aCBhcyB3aXRoIGdldCgpIGJlY2F1c2UgaXQgaXMgYXQKICAgICAgICAgICAgLy8gbGVhc3QgYXMgY29tbW9uIHRvIHVzZSBzZXQoKSB0byBjcmVhdGUgbmV3IGVudHJpZXMgYXMKICAgICAgICAgICAgLy8gaXQgaXMgdG8gcmVwbGFjZSBleGlzdGluZyBvbmVzLCBpbiB3aGljaCBjYXNlLCBhIGZhc3QKICAgICAgICAgICAgLy8gcGF0aCB3b3VsZCBmYWlsIG1vcmUgb2Z0ZW4gdGhhbiBub3QuCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIC8vIFdlIGRvbid0IHVzZSBhIGZhc3QgcGF0aCBhcyB3aXRoIGdldCgpIGJlY2F1c2UgaXQgaXMgYXQKICAgICAgICAgICAgLy8gbGVhc3QgYXMgY29tbW9uIHRvIHVzZSBzZXQoKSB0byBjcmVhdGUgbmV3IGVudHJpZXMgYXMKICAgICAgICAgICAgLy8gaXQgaXMgdG8gcmVwbGFjZSBleGlzdGluZyBvbmVzLCBpbiB3aGljaCBjYXNlLCBhIGZhc3QKICAgICAgICAgICAgLy8gcGF0aCB3b3VsZCBmYWlsIG1vcmUgb2Z0ZW4gdGhhbiBub3QuCgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICogZG9lcyBub3QgYXV0b21hdGljYWxseSBlbmZvcmNlIEZJRk8gYWNxdWlzaXRpb24gcG9saWNpZXMuICBUaGUgY29yZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">SW1wbGVtZW50YXRpb25zIG9mIHRoZXNlIG1ldGhvZHMKICogbXVzdCBiZSBpbnRlcm5hbGx5IHRocmVhZC1zYWZlLCBhbmQgc2hvdWxkIGluIGdlbmVyYWwgYmUgc2hvcnQgYW5kCiAqIG5vdCBibG9jay4gRGVmaW5pbmcgdGhlc2UgbWV0aG9kcyBpcyB0aGUgPGVtPm9ubHk8L2VtPiBzdXBwb3J0ZWQKICogbWVhbnMgb2YgdXNpbmcgdGhpcyBjbGFzcy4gQWxsIG90aGVyIG1ldGhvZHMgYXJlIGRlY2xhcmVk</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICogYWNxdWlyZXMgYnkgbXVsdGlwbGUgdGhyZWFkcyBtYXkgKGJ1dCBuZWVkIG5vdCkgc3VjY2VlZC4gVGhpcyBjbGFzcwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAqIEByZXR1cm4ge0Bjb2RlIHRydWV9IGlmIHN1Y2Nlc3NmdWwuIEZhbHNlIHJldHVybiBpbmRpY2F0ZXMgdGhhdCB0aGUgYWN0dWFsCiAgICBwcm90ZWN0ZWQgZmluYWwgYm9vbGVhbiBjb21wYXJlQW5kU2V0U3RhdGUoaW50IGV4cGVjdCwgaW50IHVwZGF0ZSkgewo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgdmFsdWUgd2FzIG5vdCBlcXVhbCB0byB0aGUgZXhwZWN0ZWQgdmFsdWUuCiAgICAgKi8K</text>
-      </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>wqa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>size</last-search>
+      <last-search>coor</last-search>
       <last-offset />
-      <last-pattern>size</last-pattern>
+      <last-pattern>coor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
