@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="propagation" />
+      <item value="unpark Successor" />
+      <item value="Additionally" />
       <item value="conservatism" />
       <item value="indicated" />
       <item value="coordinating" />
@@ -48,14 +51,11 @@
       <item value="synchronization" />
       <item value="understand" />
       <item value="quot" />
-      <item value="acquired" />
-      <item value="concrete" />
-      <item value="appropriate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
