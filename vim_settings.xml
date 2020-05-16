@@ -224,11 +224,12 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589604926415">
-        <mark key="'" line="232" column="0" />
-        <mark key="[" line="992" column="0" />
-        <mark key="]" line="992" column="0" />
-        <mark key="." line="992" column="0" />
+      <file name="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1589606185188">
+        <mark key="'" line="991" column="17" />
+        <mark key="[" line="1013" column="77" />
+        <mark key="]" line="1013" column="78" />
+        <mark key="." line="1013" column="77" />
+        <mark key="^" line="1013" column="78" />
       </file>
     </filemarks>
     <jumps>
@@ -281,15 +282,16 @@
       <jump line="42" column="6" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
       <jump line="50" column="6" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
       <jump line="80" column="22" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/CountDownLatch.java" />
+      <jump line="991" column="17" filename="$USER_HOME$/Documents/github/jdk-source-code/jdk8/src/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDIwLzUvMTYgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>节点会par</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>节点会par</text>
       </register>
       <register name="/" type="4">
         <text>coor</text>
@@ -298,31 +300,31 @@
         <text encoding="base64">cGkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDIwLzUvMTYgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5aaC5p6c5rKh5pyJ57q/56iLCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgTk9URV9CWV9aV0M6IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDIwLzUvMTYgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewogICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0IAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIFdlIGRvbid0IHVzZSBhIGZhc3QgcGF0aCBhcyB3aXRoIGdldCgpIGJlY2F1c2UgaXQgaXMgYXQKICAgICAgICAgICAgLy8gbGVhc3QgYXMgY29tbW9uIHRvIHVzZSBzZXQoKSB0byBjcmVhdGUgbmV3IGVudHJpZXMgYXMKICAgICAgICAgICAgLy8gaXQgaXMgdG8gcmVwbGFjZSBleGlzdGluZyBvbmVzLCBpbiB3aGljaCBjYXNlLCBhIGZhc3QKICAgICAgICAgICAgLy8gcGF0aCB3b3VsZCBmYWlsIG1vcmUgb2Z0ZW4gdGhhbiBub3QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIFdlIGRvbid0IHVzZSBhIGZhc3QgcGF0aCBhcyB3aXRoIGdldCgpIGJlY2F1c2UgaXQgaXMgYXQKICAgICAgICAgICAgLy8gbGVhc3QgYXMgY29tbW9uIHRvIHVzZSBzZXQoKSB0byBjcmVhdGUgbmV3IGVudHJpZXMgYXMKICAgICAgICAgICAgLy8gaXQgaXMgdG8gcmVwbGFjZSBleGlzdGluZyBvbmVzLCBpbiB3aGljaCBjYXNlLCBhIGZhc3QKICAgICAgICAgICAgLy8gcGF0aCB3b3VsZCBmYWlsIG1vcmUgb2Z0ZW4gdGhhbiBub3QuCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">c2V0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>wqa</text>
